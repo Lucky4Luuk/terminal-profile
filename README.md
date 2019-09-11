@@ -6,4 +6,5 @@ Add support for:
  - cmd.exe (old terminal)
  - Azure Cloud Shell
  - Ubuntu (WSL)
+
 And possibly more, but I don't have more installed.
